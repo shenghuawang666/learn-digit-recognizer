@@ -1,7 +1,7 @@
 # Digit Recognizer Live!
 Recognize Digits using Deep Neural Networks in Google Chrome live!
 
-###通过google浏览器，使用自然卷积认知数字###
+###使用google浏览器，通过自然卷积认知数字###
 
 Tools used: Keras, TensorFlow.js, HTML5, CSS3, JavaScript, jQuery.
 
